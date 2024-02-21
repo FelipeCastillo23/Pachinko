@@ -4,7 +4,6 @@ using System.Reflection.Emit;
 using Unity.VisualScripting;
 using UnityEngine;
 
-//This is a test comment
 
 public class Ball : MonoBehaviour
 {
@@ -33,7 +32,6 @@ public class Ball : MonoBehaviour
             gameStart = true;
             rb.gravityScale = 1f;
         }
-
         if (Input.GetButtonDown("Cancel") && gameStart)
         {
             Respawn();

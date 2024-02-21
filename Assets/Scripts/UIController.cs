@@ -23,7 +23,6 @@ public class UIController : MonoBehaviour
     }
 
 
-
     void StartBtnPressed()
     {
         SceneManager.LoadScene("Game");
