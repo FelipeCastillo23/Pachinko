@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8619501887955596759}
   - component: {fileID: 8399101938157699619}
   - component: {fileID: 5812087696802693381}
+  - component: {fileID: 2949166076434318856}
   m_Layer: 0
   m_Name: Box1
   m_TagString: GreenBox
@@ -109,3 +110,15 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!114 &2949166076434318856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3993002931080348406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f0da91ab9de3e47acd8a60eada760d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

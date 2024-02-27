@@ -6,6 +6,7 @@ TagManager:
   tags:
   - GreenBox
   - YellowBox
+  - Pole
   layers:
   - Default
   - TransparentFX

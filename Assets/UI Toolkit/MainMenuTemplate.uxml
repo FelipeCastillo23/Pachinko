@@ -2,10 +2,10 @@
     <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=9b715c3cdb512684980d21818b5e9ceb&amp;type=3#MainMenuStyle" />
     <ui:VisualElement name="Background" style="flex-grow: 1; align-items: center; justify-content: center; background-image: url(&apos;project://database/Assets/Backgrounds/demo02_PixelSky_1920x1080.png?fileID=21300000&amp;guid=23e37d0059af18c4f81beec3bf9f8d1a&amp;type=3#demo02_PixelSky_1920x1080&apos;); background-color: rgba(0, 0, 0, 0);">
         <ui:VisualElement style="align-items: center; justify-content: center; background-color: rgba(255, 255, 255, 0.49); height: 40%; width: 20%; padding-top: 5%; padding-right: 0; padding-bottom: 0; padding-left: 0;">
-            <ui:Label text="Main Menu" display-tooltip-when-elided="true" name="MenuLbl" style="font-size: 32px; position: absolute; top: 15%; padding-top: 4px; margin-top: 4px;" />
             <ui:Button text="Start Game" display-tooltip-when-elided="true" name="StartBtn" class="button-style" />
             <ui:Button text="Options" display-tooltip-when-elided="true" name="OptionsBtn" class="button-style" style="width: 50%;" />
             <ui:Button text="Quit" display-tooltip-when-elided="true" name="QuitBtn" class="button-style" style="width: 50%;" />
+            <ui:Label text="Main Menu" display-tooltip-when-elided="true" name="MenuLbl" style="font-size: 32px; position: absolute; top: 11px; padding-top: 4px; margin-top: 4px; left: 1px;" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

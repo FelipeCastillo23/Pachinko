@@ -56,7 +56,7 @@ public class Ball : MonoBehaviour
         }
     }
 
-    private void Respawn()
+    public void Respawn()
     {
         transform.position = startPos;
         gameStart = false;
