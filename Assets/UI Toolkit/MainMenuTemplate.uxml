@@ -5,7 +5,7 @@
             <ui:Button text="Start Game" display-tooltip-when-elided="true" name="StartBtn" class="button-style" />
             <ui:Button text="Options" display-tooltip-when-elided="true" name="OptionsBtn" class="button-style" style="width: 50%;" />
             <ui:Button text="Quit" display-tooltip-when-elided="true" name="QuitBtn" class="button-style" style="width: 50%;" />
-            <ui:Label text="Main Menu" display-tooltip-when-elided="true" name="MenuLbl" style="font-size: 32px; position: absolute; top: 11px; padding-top: 4px; margin-top: 4px; left: 1px;" />
+            <ui:Label text="Main Menu" display-tooltip-when-elided="true" name="MenuLbl" style="font-size: 32px; position: absolute; top: -54px; padding-top: 4px; margin-top: 4px; left: -15px;" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>
